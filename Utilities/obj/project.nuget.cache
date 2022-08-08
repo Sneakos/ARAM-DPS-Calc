@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ys7AJPDXzxl0Or9H/BYiUiVFpSib5dEf8c2r+w5nF43WyCzFbdsSMFEx6NRe8kc3OtNfk4jK+9aHDTee2UuwDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tubaf\\source\\repos\\DPS Calc\\Utilities\\Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tubaf\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\tubaf\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\tubaf\source\repos\DPS Calc\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\tubaf\source\repos\DPS Calc\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tubaf\source\repos\DPS Calc\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\tubaf\source\repos\DPS Calc\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\tubaf\source\repos\DPS Calc\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
